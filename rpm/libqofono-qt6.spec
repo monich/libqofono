@@ -1,7 +1,7 @@
 Name:       libqofono-qt6
 
 Summary:    A library of Qt 6 bindings for ofono
-Version:    0.132
+Version:    0.133
 Release:    1
 License:    LGPLv2
 URL:        https://github.com/sailfishos/libqofono
